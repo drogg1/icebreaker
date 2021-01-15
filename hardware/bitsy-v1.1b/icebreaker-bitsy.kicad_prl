@@ -22,7 +22,7 @@
       "pads": false,
       "text": false,
       "tracks": true,
-      "vias": false,
+      "vias": true,
       "zones": false
     },
     "visible_items": [
@@ -59,13 +59,38 @@
       37,
       38
     ],
-    "visible_layers": "0001000_7ffffff9"
+    "visible_layers": "0001000_fffffff9"
   },
   "meta": {
     "filename": "icebreaker-bitsy.kicad_prl",
     "version": 2
   },
   "project": {
-    "files": []
+    "files": [
+      {
+        "name": "icebreaker-bitsy.kicad_pcb",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": true,
+          "pos_x": -8,
+          "pos_y": -8,
+          "size_x": 1936,
+          "size_y": 1066
+        }
+      },
+      {
+        "name": "icebreaker-bitsy.kicad_sch",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": false,
+          "pos_x": -8,
+          "pos_y": 0,
+          "size_x": 1936,
+          "size_y": 1066
+        }
+      }
+    ]
   }
 }
